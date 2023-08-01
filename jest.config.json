@@ -1,5 +1,11 @@
 {
   "preset": "ts-jest",
   "testEnvironment": "node",
-  "testMatch": ["**/test/**/*.test.ts"]
+  "testMatch": ["**/test/**/*.test.ts"],
+  "reporters": [
+    "default",
+    ["./node_modules/jest-html-reporter", {
+      "outputPath": "report/report.html"
+    }]
+  ]
 }
