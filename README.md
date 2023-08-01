@@ -4,7 +4,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Logo" height="80">
+  <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Logo" height="80">
   <h3 align="center">Jest Cucumber Sample Project</h3>
 </div>
 
@@ -53,7 +53,7 @@ You just need git and node installed in your computer to use this template
    ```sh
    npm start
    ```
-3. Run tests
+3. Run cucumber tests
    ```sh
    npm test
    ```
