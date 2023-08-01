@@ -5,13 +5,13 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Logo" height="80">
-  <h3 align="center">Node project template</h3>
+  <h3 align="center">Jest Cucumber Sample Project</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Node project template to bootstrap other solutions
+Node project to test how to use Jest with Cucumber with the jest-cucumber package
 
 ### Built With
 
@@ -49,21 +49,13 @@ You just need git and node installed in your computer to use this template
    ```sh
    npm run build
    ```
-2. Start the hello world
+2. Start the calculator sample client code
    ```sh
    npm start
    ```
-3. You can also start the hello world in dev mode with nodemon
-   ```sh
-   npm run dev
-   ```
-4. Run tests
+3. Run tests
    ```sh
    npm test
-   ```
-5. Run linter
-   ```sh
-   npm lint
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
